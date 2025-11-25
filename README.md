@@ -7,4 +7,4 @@ Usage:
 python main.py IMAGE_NAME OUTPUT_DIM
 
 Example:
-python main.py house 10
+python main.py house 7
